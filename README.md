@@ -1,14 +1,8 @@
 <h1 align="center">My first Pychat Bot</h1>
 <p align="center"><i>Le projet explore l'analyse de texte pour créer un système de réponse basé sur la fréquence des mots, fondamental pour les chatbots et l'intelligence artificielle comme ChatGPT.</i></p>
-<h1>Important</h1>
-Il est inscrit que le projet a été créé le 14 décembre.
-Ayant rencontré un problème sur le projet en raison de commits et de pushes de fichiers non désirés, nous avons dû créer un nouveau projet, ce qui explique la date de création du 14 décembre.
-
 <h1>Utilisation</h1>
-
 Pour utiliser le programme, il suffit de cliquer sur la flèche verte dans le fichier 'main.py' pour lancer le menu. 
 Ensuite, sélectionnez les choix désirés en lisant le menu et en inscrivant les numéros correspondants.
-
 <h1>Fonctions</h1>
 <h3>liste_de_fichier</h3>
 Ce code définit une fonction appelée liste_de_fichier qui prend en entrée le chemin d'un répertoire. Elle retourne une liste de noms de fichiers dans le répertoire donné. La fonction utilise la fonction os.listdir pour obtenir une liste de tous les noms de fichiers dans le répertoire, puis ajoute chaque nom de fichier à une liste appelée files_names. Enfin, elle retourne la liste files_names.
@@ -129,5 +123,6 @@ La fonction effectue les étapes suivantes :
 En résumé, ce code crée une représentation matricielle d'une collection de dictionnaires, où chaque ligne correspond à un dictionnaire et chaque colonne correspond à un mot unique, les valeurs indiquant la présence ou l'absence du mot dans chaque dictionnaire.
 
 <h1>Créateur</h1>
-Axel Monsarrat
 Yanis Amara
+Axel Monsarrat
+
